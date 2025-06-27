@@ -73,3 +73,44 @@ footer{
   float: left;
   margin-right: 10px;
 }
+.fusttext {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #232323;
+    background: #A7F1FF;
+    border-left: solid 10px #A4C6FF;
+}
+.like{
+  padding: 10px;
+  background-color: #CEF9DC	;
+}
+.like li{
+  list-style: none;
+}
+.frieren{
+  width: 50%;
+  height: auto;
+  float: left;
+  margin-right: 10px;
+}
+.elf{
+  background-color: #F3FFD8	;
+}
+.daemon{
+  background-color: #FFDDFF	;
+}
+.frieren-img{
+  height: 200px;
+  border: solid 3px;
+}
+.game-img{
+  width: 100%;
+  height: auto;
+}
+.deco-img{
+height: 500px;
+width: auto;
+}
+.nakiri-img{
+  width: 100%
+}
